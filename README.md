@@ -1,5 +1,7 @@
 # File_recovery_system_in_xv6OS
 
+A university project we had as homework. Original project text is in the "OS Domaci 2" file.
+
 I added a recovery system in xv6OS
 
 This is once again a university project we had to do. 
